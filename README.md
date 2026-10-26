@@ -63,7 +63,7 @@ Para alojar la aplicación utilicé **Azure App Service** con sistema operativo 
 7.  Cuando terminó la implementación, ingresé al App Service y localicé la URL pública asignada.
     
 
-Los detalles de la compilación, publicación y verificación se encuentran en [Despliegue.md](https://Despliegue.md).
+Los detalles de la compilación, publicación y verificación se encuentran en [Despliegue.md](https://github.com/adrianrangel07/pokedex/blob/main/DESPLIEGUE.md).
 
 ## 4. Tecnologías y herramientas utilizadas
 
