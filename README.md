@@ -119,13 +119,8 @@ El informe mostró una advertencia relacionada con la directiva `script-src` de 
 
 A pesar de esta advertencia, el análisis otorgó una calificación **A**.
 
-## 7. Control del consumo de Azure
 
-Para controlar el uso de los recursos, puedo consultar la información de mi suscripción y las opciones de costos desde Azure Portal, en la sección **Cost Management + Billing**, según las funciones disponibles en mi cuenta.
-
-También es recomendable revisar periódicamente el estado del App Service y eliminar los recursos que ya no se necesiten, con el fin de evitar consumos innecesarios.
-
-## 8. Conclusiones
+## 7. Conclusiones
 
 Con este proyecto desplegué la aplicación PokeDex en Microsoft Azure mediante Azure App Service para Windows. Realicé la compilación de Angular, publiqué los archivos mediante Kudu y comprobé el acceso a la aplicación desde su URL pública.
 
@@ -133,7 +128,7 @@ Además, evalué los encabezados HTTP con SecurityHeaders.com y obtuve una **cal
 
 Este ejercicio me permitió practicar el despliegue de aplicaciones web en la nube, la solución de problemas durante la publicación y la aplicación de medidas de seguridad en el servidor web.
 
-## 9. Referencias
+## 8. Referencias
 
 -   [Azure for Students](https://azure.microsoft.com/free/students)
     
