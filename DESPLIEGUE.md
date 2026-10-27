@@ -137,21 +137,7 @@ Aunque el resultado final fue **A**, la herramienta mostró una advertencia rela
 
 Esta opción permite determinados scripts en línea y reduce parte de la protección que ofrece una política más estricta. Por tanto, la calificación obtenida es satisfactoria, pero existe una oportunidad de mejora para reforzar la política CSP.
 
-## 8. Evidencias
-
-Para respaldar el procedimiento, se deben conservar las siguientes evidencias:
-
-1.  Captura del App Service creado en Azure.
-    
-2.  Captura de la publicación completada mediante Kudu.
-    
-3.  Captura de la aplicación funcionando desde su URL pública.
-    
-4.  Captura del informe final de SecurityHeaders.com con la calificación A.
-    
-
-
-## 9. Conclusiones
+## 8. Conclusiones
 
 Mediante este procedimiento desplegué PokeDex en Microsoft Azure utilizando Azure App Service para Windows y Kudu para publicar los archivos compilados de Angular.
 
@@ -161,7 +147,7 @@ Finalmente, evalué los encabezados HTTP de seguridad con SecurityHeaders.com y 
 
 Este ejercicio me permitió practicar el despliegue de aplicaciones web en la nube, la solución de inconvenientes durante la publicación y la evaluación de medidas básicas de seguridad web.
 
-## 10. Referencias
+## 9. Referencias
 
 -   [Portal de Microsoft Azure](https://portal.azure.com/)
     
